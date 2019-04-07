@@ -1,0 +1,16 @@
+body {
+    background-color: crimson;
+}
+h1 {
+    font-family: 'Lucida Sans';
+    color: white;
+    font-size: 25px;
+}
+p {
+    font-family: 'Lucida Sans';
+    color: white;
+}
+li {
+    font-family: 'Lucida Sans';
+    color: white;
+}
